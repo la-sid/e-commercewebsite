@@ -20,4 +20,5 @@ The design and assets were provided by the company.
 Due to time constraints, the project is currently optimized for desktop and does not include responsive design for mobile/tablet devices.
 
 for good visuaklisation and working of the website you can visit:
+https://www.linkedin.com/in/layba-siddiqui-054248345/recent-activity/all/
 
